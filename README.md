@@ -33,11 +33,9 @@
   <a href="#-license">License</a>
 </p>
 
-<img alt="Layout" src=".github/mockup.png">
-
 ## :recycle: About the project
 
-This project was developed on the FlexBox curse by [Rocketseat](https://rocketseat.com.br/) &nbsp;🚀💜
+This project was developed on the flexxox course by [Rocketseat](https://rocketseat.com.br/) &nbsp;🚀💜
 
 With the idea to improve my knowledge of flexBox css.
 
